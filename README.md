@@ -10,6 +10,7 @@ M2 Computational Linguistics student at Université Paris Cité (CS bachelor's).
 |---|---|
 | [LLM fine-tuning for French word senses](https://github.com/bkadyrbay-hash/lab1-supersense-llm) | QLoRA on Qwen2.5-7B: macro-F1 0.583 → 0.719 vs in-context learning; clean dev/test protocol, paired bootstrap |
 | [Warhammer 40k RAG assistant](https://github.com/Alhassliebe/RAG-Project-wh40k) (team of 2) | Hybrid retrieval + RAG Fusion, Text-to-SQL, LangGraph router, Langfuse monitoring, RAGAS evaluation (faithfulness 0.91) |
+| [Language-specific neurons in mBERT](https://github.com/bkadyrbay-hash/mbert-language-neurons) | Interpretability: LAPE re-implementation, causal ablation vs matched controls, Kazakh–Russian bonus |
 | [Transformers from scratch](https://github.com/bkadyrbay-hash/llm3lab) | Character-level GPT on Kazakh poetry; BERT-style encoder on Dyck languages with attention analysis and probes |
 | [Retrofitting word vectors](https://github.com/bkadyrbay-hash/NLP_Project_RETROFITTING) (team) | Reimplementation and analysis of Faruqui et al. (2015) |
 | [Speech embeddings vs precision](https://github.com/bkadyrbay-hash/wav2vec-numerical-stability) | 5-stage DVC pipeline: int8 wav2vec2 embeddings keep float64 conclusions |
